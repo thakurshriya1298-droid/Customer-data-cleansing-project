@@ -1,0 +1,8 @@
+Metric,Value
+Raw records,10
+Cleaned records,10
+Duplicate records removed,0
+Missing emails,2
+Missing phone numbers,1
+Invalid emails,3
+Invalid phone numbers,1
